@@ -25,3 +25,5 @@ datos_covid_isciii_barcelona <-
 write_csv(datos_covid_isciii_barcelona, file = "./datos_barcelona.csv")
 
 View(datos_covid_isciii_madrid)
+
+View(datos_covid_isciii_barcelona)
